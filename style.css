@@ -180,7 +180,7 @@ img {
 
 body {
     margin: 1rem;
-    align-items: center;
+    justify-content: center;
     padding-left: 2rem;
 }
 
